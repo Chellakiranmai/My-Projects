@@ -124,6 +124,7 @@ header ul li a{
 
 }
 .sci{
+  
     margin: 0 20px;
     bottom: 20px;
     position: absolute;
@@ -136,11 +137,10 @@ header ul li a{
    
 }
 .sci li{
-    
-    
+   width: 5px;
+   height: 5px;
     list-style: none;
     bottom: 20px;
-    
 
 }
 .sci li a{
